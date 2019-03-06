@@ -1,0 +1,1 @@
+<a href="{{ $url_pilih }}" class="btn btn-success sm" title="Pilih Produk {{ $data->nama }}">Pilih</a>

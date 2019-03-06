@@ -1,0 +1,1 @@
+<a href="{{ $url_detail }}" class="modal-show" title="Detail Transaksi"><i class="fa fa-eye"></i></a>
